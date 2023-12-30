@@ -2,6 +2,7 @@
 title: Configuration
 ---
 
+
 - [Obsidian Plugin](https://github.com/ObsidianPublisher/obsidian-github-publisher)
 - Template :
   - To use with [Github Pages](https://github.com/ObsidianPublisher/template-gh-pages)
@@ -73,7 +74,7 @@ There are also :
 - `SEO` (_`string`_): Link to your default image displayed by the SEO.
 - `comments` (_`boolean`_) : Allow the comments block at the end of the page
 - `generate_graph` (_`boolean`_): Generate the [[customization#Graph view|graph view]]
-- `attachments` (_`boolean`_): For [[configuration#Blog list (article listing)]] and image in SEO. Change it according to your Obsidian Plugin settings.
+- `attachments` (_`boolean`_): For [[configuration#Blog list (article listing)|configuration > Blog list (article listing)]] and image in SEO. Change it according to your Obsidian Plugin settings.
 
 #### Blog list (article listing)
 
