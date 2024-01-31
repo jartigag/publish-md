@@ -20,6 +20,7 @@ OVH hace backup automático cada día a las 22:55 UTC (ahora, 23:55).
 - [x] https://tt-rss.org/wiki/InstallationNotes
 
 ## 3. Peertube de prueba en el que el chat de mis directos sea una sala XMPP permanente
+- [x] https://livingston.frama.io/peertube-plugin-livechat/es/documentation/user/streamers/channel/
 
 ## 4. Streaming [redacted].tv con RTMP
 https://mpolinowski.github.io/docs/DevOps/NGINX/2019-11-08--nginx-rtmp-website/2019-11-08/
@@ -30,3 +31,7 @@ http://nginx-rtmp.blogspot.com/
 https://mpolinowski.github.io/docs/DevOps/NGINX/2019-11-07--nginx-rtmp-streaming-container/2019-11-07/
 https://github.com/brocaar/nginx-rtmp-dockerfile
 https://github.com/tiangolo/nginx-rtmp-docker
+
+# Uso
+![[Screenshot_20240131_225017.png]]
+![[Screenshot_20240131_225102.png]]
